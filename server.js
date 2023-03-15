@@ -10,4 +10,8 @@ app.get('/users', (req, res) => {
     res.send('User Page')
 })
 
+function logger(req, res, next) {
+    console.log();
+}
+
 app.listen(3000)

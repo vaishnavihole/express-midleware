@@ -19,6 +19,7 @@
   "homepage": "https://github.com/vaishnavihole/express-midleware#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "i": "^0.3.7"
+    "i": "^0.3.7",
+    "nodemon": "^2.0.21"
   }
 }
